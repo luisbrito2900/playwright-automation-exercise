@@ -21,13 +21,6 @@ This repository contains an end-to-end test automation project built with **[Pla
 | Faker.js                                                         | Dynamic data generation for user input fields           |
 | GitHub Actions _(planned)_                                       | CI/CD integration for automatic test runs and reports   |
 
-📁 **Directory Structure**:
-
-├── pom/ → Page Object Models
-├── tests/ → Test specifications (organized by feature)
-├── utils/ → Helpers, data generators, screenshot utility
-├── playwright.config.ts → Global test configuration
-
 ---
 
 ## ✅ Current Test Coverage
