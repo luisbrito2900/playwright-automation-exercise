@@ -50,8 +50,6 @@ npx playwright show-report
 
 Make sure you have Node.js installed.
 
----
-
 ### 1️⃣ Install dependencies
 
 ```bash
