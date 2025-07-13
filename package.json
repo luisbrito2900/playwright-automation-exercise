@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "playwright automation sample project",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "npx playwright test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/luisbrito2900/playwright-automation-exercise.git"
@@ -15,6 +17,7 @@
   },
   "homepage": "https://github.com/luisbrito2900/playwright-automation-exercise#readme",
   "devDependencies": {
+    "@faker-js/faker": "^9.9.0",
     "@playwright/test": "^1.53.2",
     "@types/node": "^24.0.10"
   }
